@@ -27,4 +27,8 @@ yarn add antd
 - [ ] Sentry
 - [ ] TypeSense/ElasticSearch
 - [ ] Middleware
-  
+
+### Workflows/Releases
+- [ ] CICD for dockerhub
+- [ ] Release package
+- [ ] npm/yarn package
