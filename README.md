@@ -12,8 +12,8 @@ yarn add antd
 ### Connections
 - [ ] Postgres
 - [ ] TypeORM
-- [ ] Nestjs
-- [ ] Reactjs
+- [x] Nestjs
+- [x] Reactjs
 
 
 ### Features
