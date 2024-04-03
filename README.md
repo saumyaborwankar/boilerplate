@@ -25,7 +25,9 @@ yarn add antd
 - [ ] Microservice architecture
 - [ ] Microservice communication Auth
 - [ ] Feature flags for all features
-- [ ] Events for processing
+- [ ] Events for processing (SQS AWS)
+- [ ] Notification system (SNS AWS)
+- [ ] Push Notifications 
 - [ ] Sentry
 - [ ] TypeSense/ElasticSearch
 - [ ] Middleware
