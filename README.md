@@ -1,3 +1,4 @@
+## INSTALLATION
 postgres
 sudo apt install postgresql postgresql-contrib
 
