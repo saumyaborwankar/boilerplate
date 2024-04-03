@@ -32,3 +32,4 @@ yarn add antd
 - [ ] CICD for dockerhub
 - [ ] Release package
 - [ ] npm/yarn package
+- [ ] npm/yarn package with auth
