@@ -18,6 +18,7 @@ yarn add antd
 
 
 ### Features
+- [ ] Dockerize everything
 - [ ] Login
 - [ ] Login with Auth
 - [ ] Microservice communication Auth
