@@ -21,6 +21,7 @@ yarn add antd
 - [ ] Dockerize everything
 - [ ] Login
 - [ ] Login with Auth
+- [ ] Microservice architecture
 - [ ] Microservice communication Auth
 - [ ] Feature flags for all features
 - [ ] Events for processing
